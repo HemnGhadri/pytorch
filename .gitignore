@@ -2,7 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
 
 # torch datasets
-MNIST/
+mnist/
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
